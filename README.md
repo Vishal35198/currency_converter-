@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+This is a flutter Project Created By - Vishal Chaurasiya 
 
 ## Getting Started
 
